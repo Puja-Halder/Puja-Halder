@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Puja Halder</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 
+## 👩‍💻 About Me
+
+I am a Computer Science & Engineering student passionate about web development, 
+machine learning, and data science. I enjoy building practical projects, 
+learning new technologies, and improving my programming skills.
+
+### 🔭 Currently Working On
+- 🌐 Exploring modern frontend web development
+- ⚛️ Learning and practicing React.js and Next.js
+- 🤖 Exploring Machine Learning and Data Science
+- 🚀 Building and improving personal projects
+
+
 - 📫 How to reach me **pujahalderpiya@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
