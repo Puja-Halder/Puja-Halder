@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Halder</h1>
-<h3 align="center">Computer Science & Engineering Student</h3>
+<h3 align="center">Computer Science & Engineering Student. I build things with JavaScript, React, and Node.js</h3>
 
 ## 👩‍💻 About Me
 
