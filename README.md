@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Puja Halder GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Puja Halder</h1>
 <h3 align="center">Computer Science & Engineering Student. I build things with JavaScript, React, and Node.js</h3>
 
